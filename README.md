@@ -53,13 +53,13 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 
 ### Platforms 👨‍
 <p>
-<a href="https://www.linkedin.com/in/ashish/">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-ashish-blue">
-<a href="https://www.kaggle.com/ashish">
+<a href="#">
 <img src="https://img.shields.io/badge/Kaggle-ashish-blue">
-<a href="https://medium.com/@ashish">
+<a href="#">
 <img src="https://img.shields.io/badge/Medium-ashish-blue">
-<a href="https://stackoverflow.com/users/9658895/ashish?tab=profile">
+<a href="#">
 <img src="https://img.shields.io/badge/Stack%20Overflow-ashish-blue">
 </a>
 </p>

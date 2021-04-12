@@ -3,7 +3,7 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png)
+![alt text](https://user-images.githubusercontent.com/36606232/114346654-73c04900-9b81-11eb-9447-50da5caab0fb.jpg)
 
 
 ### My Tech Toolbox 🧰

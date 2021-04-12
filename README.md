@@ -79,11 +79,12 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Hack Google chrome No Internet Dino Game!](#)
+* Coming Soon
+<!-- - [Hack Google chrome No Internet Dino Game!](#)
 - [Fetch All Information of any Country using Python](#)
 - [Automate any Chat-Messenger with Python](#)
 - [Draw Indian Flag using Python](#)
-- [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!]#)
+- [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!]#) -->
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...]( https://medium.com/@ashishc628)
 </td>
@@ -91,11 +92,12 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
-- [1822. Sign of the Product of an Array ](#)
-- [Hack Google chrome No Internet Dino Game!](#)
+* Coming Soon
+ - [1822. Sign of the Product of an Array ](#)
+<!-- - [Hack Google chrome No Internet Dino Game!](#)
 - [Fetch All Information of any Country ](#)
 - [Automate any Chat-Messenger with Python ](#)
-- [Draw Indian Flag ](#)
+- [Draw Indian Flag ](#) -->
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/CS101/videos)
 </td>

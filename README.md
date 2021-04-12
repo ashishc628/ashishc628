@@ -1,5 +1,5 @@
 ![a](https://user-images.githubusercontent.com/36606232/114345021-90a74d00-9b7e-11eb-88ec-5c8a28a0ea81.jpg)
-
+<img src="https://user-images.githubusercontent.com/36606232/114345021-90a74d00-9b7e-11eb-88ec-5c8a28a0ea81.jpg" width="30px">
 
 ### Hi there 👋
 

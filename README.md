@@ -20,28 +20,30 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
- 
+ <p>
+A budding entrepreneur with love for data science and passion for transformation of India. To know more about me, visit: <a href="https://medium.com/@ashishc628">sargupta</a>.
+</p>
 
 * My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python programming.
+* Earned Gold badge & 5 star at HackerRank in Python and sql programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* 
+ - 🌱 I’m currently learning Data Structures and Algorithms 
+- 🔭 I’m currently working on Deep Learning
+
+- 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
+- 📫 How to reach me: <a href="https://twitter.com/ashishc39310362">@ashish</a>
+
 * Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
 
 
 </p>
-<p>
-A budding entrepreneur with love for physics and passion for transformation of India. To know more about me, visit: <a href="https://sargupta.in/">sargupta</a>.
-</p>
-
-- 🌱 I’m currently learning Data Structures and Algorithms 
-- 🔭 I’m currently working on Deep Learning Model Deployment on Azure
-
-- 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
-- 📫 How to reach me: <a href="https://twitter.com/sargupta93">@sargupta93</a>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
+
+
+<!--  ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact) -->
 
 
 ### Main Programming Language :desktop_computer: 

@@ -70,7 +70,7 @@
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{ashishc628}/count.svg)
 
 
 [twitter]: https://twitter.com/ayushi7rawat

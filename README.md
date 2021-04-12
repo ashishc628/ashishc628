@@ -6,7 +6,7 @@
 [<img height="30" src="https://user-images.githubusercontent.com/36606232/114346654-73c04900-9b81-11eb-9447-50da5caab0fb.jpg " />]
 
  <p>
-A budding entrepreneur with love for data science and passion for transformation of India. To know more about me, visit: <a href="https://medium.com/@ashishc628">My_Website</a>.
+A budding entrepreneur with love for data science and  Passionate for learning & exploring new Tech. To know more about me, visit: <a href="https://medium.com/@ashishc628">My_Website</a>.
 </p>
 
 ### My Tech Toolbox 🧰
@@ -27,13 +27,11 @@ A budding entrepreneur with love for data science and passion for transformation
 * My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python and sql programming.
 * I m a Kaggle Contributor.
-* Passionate for learning & exploring new Tech. 
 * I write [Tech Blogs](https://medium.com/@ashishc628) & make educational [YouTube Videos](https://www.youtube.com/c/CS101/videos).
-- 🌱 I’m currently learning Data Structures and Algorithms 
-- 🔭 I’m currently working on Deep Learning
-- 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
-- 📫 How to reach me: <a href="https://twitter.com/ashishc39310362">@ashish</a>
-
+* 🌱 I’m currently learning Data Structures and Algorithms 
+* 🔭 I’m currently working on Deep Learning
+* 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
+* 📫 How to reach me: <a href="https://twitter.com/ashishc39310362">@ashish</a>
 * Join my [Discord server](#) | [Telegram Channel](#).
 
 
@@ -50,7 +48,7 @@ A budding entrepreneur with love for data science and passion for transformation
 - Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
 
 ### Interests 👨‍💻
-- Physics | - Engineering | - Deep Learning | - NLP | - Algorithms | - Startup | - Creative Thinking
+- Physics | - Engineering | * Deep Learning | * NLP | * Algorithms | * Startup | * Creative Thinking
 
 
 ### Languages and Platforms 🦄

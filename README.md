@@ -6,33 +6,17 @@
 [<img height="30" src="https://user-images.githubusercontent.com/36606232/114346654-73c04900-9b81-11eb-9447-50da5caab0fb.jpg " />]
 
  <p>
-A budding entrepreneur with love for data science and  Passionate for learning & exploring new Tech. To know more about me, visit: <a href="https://medium.com/@ashishc628">My_Website</a>.
-</p>
-
-### My Tech Toolbox 🧰
-
-<p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
+I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines or applications from different industries. I have an academic background in engineering.My passion lies in solving business problems and deliver high-performing AI solutions.. To know more about me, visit: <a href="https://medium.com/@ashishc628">My_Website</a>.
 </p>
 
 
 
 * My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python and sql programming.
-* I m a Kaggle Contributor.
+* I m a Kaggle Contributor,Earned Gold badge at HackerRank in Python & sql programming.
 * I write [Tech Blogs](https://medium.com/@ashishc628) & make educational [YouTube Videos](https://www.youtube.com/c/CS101/videos).
-* 🌱 I’m currently learning Data Structures and Algorithms 
-* 🔭 I’m currently working on Deep Learning
-* 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
-* 📫 How to reach me: <a href="https://twitter.com/ashishc39310362">@ashish</a>
-* Join my [Discord server](#) | [Telegram Channel](#).
+* 🌱 I’m currently learning Deep Learning
+<!-- * 📫 How to reach me: <a href="https://twitter.com/ashishc39310362">@ashish</a> --> 
+<!-- * Join my [Discord server](#) | [Telegram Channel](#). --> 
 
 
 </p>
@@ -48,10 +32,10 @@ A budding entrepreneur with love for data science and  Passionate for learning &
 - Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
 
 ### Interests 👨‍💻
-- Physics | - Engineering | * Deep Learning | * NLP | * Algorithms | * Startup | * Creative Thinking
+- Physics |  Engineering |  Deep Learning |  NLP |  Algorithms |  Startup |  Creative Thinking | Space-Tech Projects
 
 
-### Languages and Platforms 🦄
+### Languages and Platforms 🧰
 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>

@@ -3,7 +3,6 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-[<img height="30" src="https://user-images.githubusercontent.com/36606232/114346654-73c04900-9b81-11eb-9447-50da5caab0fb.jpg " />]
 
  <p>
 I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines or applications from different industries. I have an academic background in engineering.My passion lies in solving business problems and deliver high-performing AI solutions.. To know more about me, visit: <a href="https://medium.com/@ashishc628">My_Website</a>.
@@ -54,14 +53,14 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 
 ### Platforms 👨‍
 <p>
-<a href="https://www.linkedin.com/in/sargupta/">
-<img src="https://img.shields.io/badge/LinkedIn-sargupta-blue">
-<a href="https://www.kaggle.com/sargupta">
-<img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
-<a href="https://medium.com/@sargupta93">
-<img src="https://img.shields.io/badge/Medium-sargupta-blue">
-<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
-<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
+<a href="https://www.linkedin.com/in/ashish/">
+<img src="https://img.shields.io/badge/LinkedIn-ashish-blue">
+<a href="https://www.kaggle.com/ashish">
+<img src="https://img.shields.io/badge/Kaggle-ashish-blue">
+<a href="https://medium.com/@ashish">
+<img src="https://img.shields.io/badge/Medium-ashish-blue">
+<a href="https://stackoverflow.com/users/9658895/ashish?tab=profile">
+<img src="https://img.shields.io/badge/Stack%20Overflow-ashish-blue">
 </a>
 </p>
 
@@ -104,7 +103,7 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishc628&show_icons=true&theme=gotham" alt="Ashsih Chaudhary | Stats" />
 
 </details>
 

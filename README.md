@@ -25,8 +25,72 @@
 * My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
 * Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
+
+
+</p>
+<p>
+A budding entrepreneur with love for physics and passion for transformation of India. To know more about me, visit: <a href="https://sargupta.in/">sargupta</a>.
+</p>
+
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 🔭 I’m currently working on Deep Learning Model Deployment on Azure
+
+- 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
+- 📫 How to reach me: <a href="https://twitter.com/sargupta93">@sargupta93</a>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
+
+
+### Main Programming Language :desktop_computer: 
+- Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
+
+### Interests 👨‍💻
+- Physics
+- Engineering
+- Deep Learning
+- NLP
+- Algorithms
+- Startup
+- Creative Thinking
+
+
+### Languages and Platforms 🦄
+
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
+
+
+### Tools and Environments 🔧
+<p>
+<img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
+<img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
+<img src="https://img.shields.io/badge/OS-Chrome-organge?logo=Chrome">
+<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
+<img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
+<img src="https://img.shields.io/badge/Library-scikit-red">
+<img src="https://img.shields.io/badge/Library-Tensorflow-red?logo=Tensorflow">
+</a>
+</p>
+
+### Platforms 👨‍
+<p>
+<a href="https://www.linkedin.com/in/sargupta/">
+<img src="https://img.shields.io/badge/LinkedIn-sargupta-blue">
+<a href="https://www.kaggle.com/sargupta">
+<img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
+<a href="https://medium.com/@sargupta93">
+<img src="https://img.shields.io/badge/Medium-sargupta-blue">
+<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
+<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
+</a>
+</p>
+
+
 <!--* 🏠 Hogwarts House: Griffindor-->
 <!--* If you play Call of Duty- add me: Blackhood@00-->
 <!--* I am currently learning Docker-->
@@ -41,25 +105,25 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
-- [Fetch All Information of any Country using Python](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
-- [Automate any Chat-Messenger with Python](https://ayushirawat.com/automate-any-chat-messenger-with-python)
-- [Draw Indian Flag using Python](https://ayushirawat.com/draw-indian-flag-using-python)
-- [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!](https://ayushirawat.com/make-2021-a-productive-year-or-12-must-watch-life-changing-hacks)
+- [Hack Google chrome No Internet Dino Game!](#)
+- [Fetch All Information of any Country using Python](#)
+- [Automate any Chat-Messenger with Python](#)
+- [Draw Indian Flag using Python](#)
+- [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!]#)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://ayushirawat.com/)
+➡️ [more blog posts...]( https://medium.com/@ashishc628)
 </td>
 <td valign="top" width="50%">
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
-- [1822. Sign of the Product of an Array ](https://www.youtube.com/watch?v=3DViZ6BF4sw)
-- [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
-- [Fetch All Information of any Country ](https://www.youtube.com/watch?v=Eb3naUPN3G8)
-- [Automate any Chat-Messenger with Python ](https://www.youtube.com/watch?v=6dy8wl0x-oc)
-- [Draw Indian Flag ](https://www.youtube.com/watch?v=4gvmxgkeAjo)
+- [1822. Sign of the Product of an Array ](#)
+- [Hack Google chrome No Internet Dino Game!](#)
+- [Fetch All Information of any Country ](#)
+- [Automate any Chat-Messenger with Python ](#)
+- [Draw Indian Flag ](#)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+➡️ [more videos...](https://www.youtube.com/c/CS101/videos)
 </td>
 
  <details>
@@ -73,12 +137,12 @@
  ![Visitor Count](https://profile-counter.glitch.me/{ashishc628}/count.svg)
 
 
-[twitter]: https://twitter.com/ayushi7rawat
-[youtube]: https://youtube.com/ayushirawat
-[Hashnode]: https://ayushirawat.com
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
-[Medium]: https://medium.com/@ayushi7rawat
-[Facebook]: https://www.facebook.com/ayushi7rawat
+[twitter]: https://twitter.com/ashishc39310362
+[youtube]: https://www.youtube.com/c/CS101/videos
+[Hashnode]:#
+[gmail]:https://gmail.com/
+[linkedin]: https://www.linkedin.com/in/ashish-chaudhary-a7662513a/
+[Medium]: https://medium.com/@ashishc628
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

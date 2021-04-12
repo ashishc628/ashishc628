@@ -14,7 +14,6 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 * My primary coding language: Python
 * I m a Kaggle Contributor,Earned Gold badge at HackerRank in Python & sql programming.
 * I write [Tech Blogs](https://medium.com/@ashishc628) & make educational [YouTube Videos](https://www.youtube.com/c/CS101/videos).
-* 🌱 I’m currently learning Deep Learning
 <!-- * 📫 How to reach me: <a href="https://twitter.com/ashishc39310362">@ashish</a> --> 
 <!-- * Join my [Discord server](#) | [Telegram Channel](#). --> 
 
@@ -28,8 +27,6 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact) -->
 
 
-### Main Programming Language :desktop_computer: 
-- Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
 
 ### Interests 👨‍💻
 - Physics |  Engineering |  Deep Learning |  NLP |  Algorithms |  Startup |  Creative Thinking | Space-Tech Projects

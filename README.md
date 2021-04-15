@@ -10,7 +10,7 @@
  <!-- <img align="right" src="tenor.gif" alt="gif"> -->
 
 
-<p><img src="tenor.gif" alt="gif" width="50%" height="130"> (width:50%, height:130px)</p>
+<img align="right" src="tenor.gif" alt="gif" width="50%" height="180"> 
 
 
 

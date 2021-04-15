@@ -9,6 +9,8 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](#)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-53C5FB?&style=for-the-badge)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-D33F73?&style=for-the-badge)](#)
+[![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-EE8033?&style=for-the-badge)](#)
 
 
  <!-- <img align="right" src="tenor.gif" alt="gif"> -->

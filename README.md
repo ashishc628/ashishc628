@@ -140,7 +140,8 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 </td>
 
  <details>
-<summary>📊 Github Stats</summary>
+<!-- <summary>📊 Github Stats</summary> -->
+  <summary>:zap: Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishc628&show_icons=true&theme=gotham" alt="Ashsih Chaudhary | Stats" />
 

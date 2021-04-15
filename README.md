@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishc628@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](#)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-53C5FB?&style=flat-square&badgeheight=30)](#)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-53C5FB?&style=for-the-badge)](#)
 
 
  <!-- <img align="right" src="tenor.gif" alt="gif"> -->

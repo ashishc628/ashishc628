@@ -10,7 +10,7 @@
 <!-- <img align="right" src="tenor.gif" alt="gif"> -->
 
 img.animated-gif{
-  width: 120px;
+  width: 60px;
   height: auto;
 }
 

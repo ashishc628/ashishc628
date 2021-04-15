@@ -7,6 +7,9 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
 
 
+<img align="right" src="./assets/img/programmer.gif" alt="gif">
+
+
  <p>
 I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines or applications from different industries. I have an academic background in engineering.My passion lies in solving business problems and deliver high-performing AI solutions.. To know more about me, visit: <a href="https://medium.com/@ashishc628">My_Website</a>.
 </p>

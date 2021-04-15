@@ -7,7 +7,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
 
 
-<img align="right" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" alt="gif">
+<img align="right" src="tenor.gif" alt="gif">
 
 
 

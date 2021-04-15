@@ -7,16 +7,10 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
 
 
-<!-- <img align="right" src="tenor.gif" alt="gif"> -->
-
-img.animated-gif{
-  width: 60px;
-  height: auto;
-}
-
-<img class="animated-gif" align="right" src="tenor.gif" alt="gif">
+ <!-- <img align="right" src="tenor.gif" alt="gif"> -->
 
 
+<p><img src="tenor.gif" alt="gif" width="100%" height="130"> (width:100%, height:130px)</p>
 
 
 

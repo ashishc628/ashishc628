@@ -22,14 +22,12 @@
 
 
  <p>
-I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines or applications from different industries. I have an academic background in engineering.My passion lies in solving business problems and deliver high-performing AI solutions..
+I am an Artificial intelligence practitioner who enjoys connecting the dots: be it ideas from different disciplines or applications from different industries. I have an academic background in engineering.My passion lies in solving business problems and deliver high-performing AI solutions..
 </p>
 
 
 
 * My primary coding language: Python
-* I m a Kaggle Contributor,Earned Gold badge at HackerRank in Python & sql programming.
-* I write [Tech Blogs](https://medium.com/@ashishc628) & make educational [YouTube Videos](https://www.youtube.com/c/CS101/videos).
 <!-- * 📫 How to reach me: <a href="https://twitter.com/ashishc39310362">@ashish</a> --> 
 <!-- * Join my [Discord server](#) | [Telegram Channel](#). --> 
 
@@ -45,7 +43,7 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 
 
 ### Interests 👨‍💻
-- Physics |  Engineering |  Deep Learning |  NLP |  Algorithms |  Startup |  Creative Thinking | Space-Tech Projects
+- Artificial intelligence |  Neuroscience |  Artificial Brain/mind |  NLP |  Algorithms |  Startup |  Creative Thinking | Space-Tech 
 
 
 ### Languages and Tools 🧰 🔧
@@ -86,78 +84,6 @@ I am an aspiring data scientist who enjoys connecting the dots: be it ideas from
 </a>
 </p> -->
 
-<!-- ### Platforms 👨‍
-<p>
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-ashish-blue">
-<a href="#">
-<img src="https://img.shields.io/badge/Kaggle-ashish-blue">
-<a href="#">
-<img src="https://img.shields.io/badge/Medium-ashish-blue">
-<a href="#">
-<img src="https://img.shields.io/badge/Stack%20Overflow-ashish-blue">
-</a>
-</p> -->
-
-
-<!--* 🏠 Hogwarts House: Griffindor-->
-<!--* If you play Call of Duty- add me: Blackhood@00-->
-<!--* I am currently learning Docker-->
-<!--* I’m currently working on my portfolio. -->
-<!-- * Ask me about anything, I'll be happy to help.-->
-<!-- -->
-<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
-
----
-
-<table><tr><td valign="top" width="50%">
-
-### My Latest Blog Posts 🌱
-<!-- BLOG-POST-LIST:START -->
-* Coming Soon
-<!-- - [Hack Google chrome No Internet Dino Game!](#)
-- [Fetch All Information of any Country using Python](#)
-- [Automate any Chat-Messenger with Python](#)
-- [Draw Indian Flag using Python](#)
-- [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!]#) -->
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...]( https://medium.com/@ashishc628)
-</td>
-<td valign="top" width="50%">
-
-### My Latest YouTube Videos 🌱
-<!-- YOUTUBE:START -->
-* Coming Soon
-<!-- - [1822. Sign of the Product of an Array ](#)
- - [Hack Google chrome No Internet Dino Game!](#)
-- [Fetch All Information of any Country ](#)
-- [Automate any Chat-Messenger with Python ](#)
-- [Draw Indian Flag ](#) -->
-<!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/CS101/videos)
-</td>
-
- <details>
-<!-- <summary>📊 Github Stats</summary> -->
-  <summary>:zap: Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishc628&show_icons=true&theme=gotham" alt="Ashsih Chaudhary | Stats" />
-
-</details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{ashishc628}/count.svg)
-
-
-[twitter]: https://twitter.com/ashishc39310362
-[youtube]: https://www.youtube.com/c/CS101/videos
-[Hashnode]:#
-[gmail]:https://gmail.com/
-[linkedin]: https://www.linkedin.com/in/ashish-chaudhary-a7662513a/
-[Medium]: https://medium.com/@ashishc628
-
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
 ### Spotify Playing 🎧

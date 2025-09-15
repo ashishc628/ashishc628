@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
-- 🔭 I’m currently working on **Agentic AI**
+- 🔭 I’m currently working on **Agentic AI and Analytics**
 
 - 🌱 I’m currently learning **AI Agents**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Data Science and AI](Data Science and AI)
 
-- 💬 Ask me about **Data Science and AI**
+- 💬 Ask me about **Data Science/Analytics and AI**
 
 - 📫 How to reach me **ashishc628@gmail.com**
 
